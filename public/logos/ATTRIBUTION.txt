@@ -1,0 +1,18 @@
+Devicon logos
+R, Python, MATLAB, Figma, Blender, Canva, GitHub, and LinkedIn icons are from Devicon v2.17.0.
+Source: https://github.com/devicons/devicon
+License: MIT; see DEVICON_LICENSE.txt.
+
+PsychoPy icon
+Created by Jon Peirce and provided via Wikimedia Commons.
+Source: https://commons.wikimedia.org/wiki/File:Psychopy.png
+License: Creative Commons Attribution 3.0 Unported.
+
+Tableau logo
+Provided by Tableau Software via Wikimedia Commons.
+Source: https://commons.wikimedia.org/wiki/File:Tableau_Software_Logo_Small.png
+Wikimedia Commons identifies this simple text logo as public domain.
+
+REDCap icon
+Provided by the REDCap Consortium website.
+Source: https://projectredcap.org/wp-content/themes/rcap/images/redcap-icons_03.png
